@@ -13,4 +13,5 @@ SQL Server | Power BI | DAX
 - Identified regional and product-level performance trends
 
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-06-17 121108.png)
+![Dashboard](<Screenshot 2026-06-17 121108.png>)
+
